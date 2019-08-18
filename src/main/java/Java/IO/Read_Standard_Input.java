@@ -15,6 +15,7 @@ public class Read_Standard_Input {
     }
 
     // This is same as printing the decimal value for a given character (1 byte read)
+    // To print character type cast to char
     private static void readByte() {
         try {
             System.out.println("Enter a character to get its ASCII value ");
